@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 git revert practice
 wrong code
+=======
+Git revert practice
+>>>>>>> parent of 203792b (This is the second wrong revert commit)
